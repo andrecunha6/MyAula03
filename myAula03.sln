@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piramide", "Piramide\Piramide.csproj", "{444F9067-E9F7-4F2E-9309-174007DBF045}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "percorreString", "percorreString\percorreString.csproj", "{1C13896F-E787-4658-83AE-76F7F1CF9688}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{444F9067-E9F7-4F2E-9309-174007DBF045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{444F9067-E9F7-4F2E-9309-174007DBF045}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{444F9067-E9F7-4F2E-9309-174007DBF045}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{444F9067-E9F7-4F2E-9309-174007DBF045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C13896F-E787-4658-83AE-76F7F1CF9688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C13896F-E787-4658-83AE-76F7F1CF9688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C13896F-E787-4658-83AE-76F7F1CF9688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C13896F-E787-4658-83AE-76F7F1CF9688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {19F6EC1F-A55F-4166-B894-447CD5DB95BF}
+		SolutionGuid = {0408879A-7DE7-46E3-9CA1-405ED6419732}
 	EndGlobalSection
 EndGlobal
